@@ -29,6 +29,7 @@
                 </primary>
               </address>
             </ip>
+            <description>{/interface/interface_description}</description>
           </GigabitEthernet>
         </interface>
         <router xmlns="urn:ios">
